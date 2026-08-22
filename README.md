@@ -11,9 +11,6 @@
 
 ### `echo $whoami`
 
-**sou eu, o dev que escreve em Rust pra não ter medo de segfault,**
-**e em C pra saber exatamente onde ele vai acontecer.**
-
 </div>
 
 <br>
