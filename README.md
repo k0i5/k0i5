@@ -1,57 +1,35 @@
 <div align="center">
 
-```
-   ██████╗ ██╗   ██╗███████╗████████╗
-   ██╔══██╗██║   ██║██╔════╝╚══██╔══╝
-   ██████╔╝██║   ██║███████╗   ██║
-   ██╔══██╗██║   ██║╚════██║   ██║
-   ██║  ██║╚██████╔╝███████║   ██║
-   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
-```
-
-### `echo $whoami`
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,linux,vim&theme=dark" />
 
 </div>
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=k0i5&color=orange&style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/k0i5/k0i5?color=orange)
-![Stars](https://img.shields.io/github/stars/k0i5?color=orange&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=k0i5&color=39FF14&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/k0i5/k0i5?color=39FF14&style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,linux,vim,docker,git&theme=dark" />
+`arch linux` `vim` `terminal`
 
 ---
 
-### `> Atualmente estudando`
+Atualmente mexendo com:
 
-- Rust (ownership, lifetimes, unsafe quando precisa)
-- Sistemas operacionais e low-level (C)
-- Automação e scripting (Python)
-- Redes e protocolos
-- Arch Linux, dotfiles, minimalismo no terminal
+* Rust, C, C++, Python
+* Reverse engineering e low-level
+* Construção de ferramentas próprias
+* Automação de tarefas no Linux
+* Cibersegurança
 
-### `> Stack`
+---
+
+### 🛠️ Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,linux,git,docker,vim&theme=dark" />
 
 ---
 
-### `> GitHub Stats`
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k0i5&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0i5&layout=compact&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k0i5&theme=react-dark&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-`arch linux` • `vim` • `terminal life`
-
+  <img src="https://github-readme-stats.vercel.app/api?username=k0i5&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0i5&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14" width="35%" />
 </div>
